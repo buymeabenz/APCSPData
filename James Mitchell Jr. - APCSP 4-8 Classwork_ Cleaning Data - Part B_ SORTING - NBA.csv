@@ -1,0 +1,31 @@
+id,Conference,Division,Team,Location,Arena,Arena capacity,Year joined to the NBA,Championship wins
+24,Western,-,Phoenix Suns,"Phoenix, Arizona",Talking Stick Resort Arena,18055,1968,0
+28,,,Memphis Grizzlies,"Memphis, Tennessee",FedExForum,18119,1995,0
+29,Western,Southwest,New Orleans Pelicans,"New Orleans, Louisiana",Smoothie King Center,16867,2002,0
+12,,,Charlotte Hornets,,,19077,-,0
+14,Eastern,Southeast,,"Orlando, Florida",Amway Center,18846,-,0
+20,Western,Northwest,Utah Jazz,"Salt Lake City, Utah",Vivint Smart Home Arena,19911,,0
+18,Western,---,Oklahoma City Thunder,"Oklahoma City, Oklahoma",,18203,1967,1
+10,Eastern,Central,Milwaukee Bucks,,Fiserv Forum,18717,-,1
+15,Eastern,Southeast,Washington Wizards,"Washington, D.C.",Capital One Arena,20356,-,1
+11,Eastern,Southeast,,"Atlanta, Georgia",,15711,,1
+25,Western,Pacific,Sacramento Kings,"Sacramento, California",Golden 1 Center,17500,,1
+3,Eastern,---,New York Knicks,"New York City, New York",Madison Square Garden,19812,1946,2
+27,-,Southwest,Houston Rockets,,Toyota Center,18055,1967,2
+4,Eastern,Atlantic,,"Philadelphia, Pennsylvania",Wells Fargo Center,21600,1949,3
+8,Eastern,Central,Detroit Pistons,"Detroit, Michigan",,20491,-,3
+13,Eastern,Southeast,Miami Heat,"Miami, Florida",American Airlines Arena,19600,-,3
+30,Western,Southwest,San Antonio Spurs,"San Antonio, Texas",AT&T Center,--,1976,5
+21,Western,,Golden State Warriors,"San Francisco, California",Chase Center,--,1946,6
+6,Eastern,Central,Chicago Bulls,,United Center,20917,1966,6
+23,Western,Pacific,jj,"Los Angeles, California",,18997,1948,16
+1,Eastern,Atlantic,Boston Celtics,"Boston, Massachusetts",TD Garden,18624,1946,17
+26,Western,Southwest,Dallas Mavericks,--,American Airlines Center,,1980,-
+17,Western,Northwest,Minnesota Timberwolves,"Minneapolis, Minnesota",Target Center,19356,1989,-
+5,Eastern,Atlantic,Toronto Raptors,"Toronto, Ontario",Scotiabank Arena,19800,1995,-
+9,Eastern,Central,---,--,Bankers Life Fieldhouse,17923,-,nan
+7,,Central,Cleveland Cavaliers,"Cleveland, Ohio",Rocket Mortgage FieldHouse,- ,1970,
+19,,Northwest,Portland Trail Blazers,"Portland, Oregon",Moda Center,,1970,
+22,Western,Pacific,Los Angeles Clippers,--,Staples Center,19060,1970,
+2,Eastern,Atlantic,Brooklyn Nets,"New York City, New York",Barclays Center,17732,1976,
+16,Western,,Denver Nuggets,"Denver, Colorado",Pepsi Center,19520,1976,
